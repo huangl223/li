@@ -1,11 +1,8 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # Site settings
 title: Li Huang           
 SEOTitle: Li          # 在后面会详细谈到
-#description: " Blog"    # 随便说点，描述一下
+description: "Research Asisitant at School of Data and Computer Science (SDCS), Sun Yat-sen University (SYSU)"    # 随便说点，描述一下
 
-# SNS settings      
-github_username: huangl223   # 你的github账号
+sidebar: true
 
-# Build settings
-# paginate: 10              # 一页你准备放几篇文章
