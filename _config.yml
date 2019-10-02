@@ -1,12 +1,11 @@
 #theme: jekyll-theme-minimal
 # Site settings
-title: Jlcao Blog           # 你的博客网站标题
-SEOTitle: Jack Blog         # 在后面会详细谈到
-description: "Cool Blog"    # 随便说点，描述一下
+title: Li Huang           
+SEOTitle: Li          # 在后面会详细谈到
+#description: " Blog"    # 随便说点，描述一下
 
 # SNS settings      
-github_username: caojiele   # 你的github账号
-weibo_username: caojiele    # 你的微博账号，底部链接会自动更新的。
+github_username: huangl223   # 你的github账号
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
