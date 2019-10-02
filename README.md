@@ -61,8 +61,8 @@ in Autonomous Automotive Systems using Simulink Design Verifier](https://link.sp
 
 6. Eun-Young Kang, Dongrui Mu, and **Li Huang**. "[Probabilistic Verification of Timing Constraints in Automotive Systems using UPPAAL-SMC](https://link.springer.com/chapter/10.1007%2F978-3-319-98938-9_14)." In the *International Conference on Integrated Formal Methods (IFM)*, pp. 236-254, Springer, Maynooth, Ireland, September 2018.
 
-7. Eun-Young Kang, **Li Huang**, and Dongrui Mu. "Formal Verification of Energy and Timed
-Requirements for a Cooperative Automotive System." In the *ACM/SIGAPP Symposium On Applied Computing in Software Engineering (SAC)*, pp. 1492-1499, ACM, Pau, France, April
+7. Eun-Young Kang, **Li Huang**, and Dongrui Mu. "[Formal Verification of Energy and Timed
+Requirements for a Cooperative Automotive System](https://dl.acm.org/citation.cfm?id=3167291)." In the *ACM/SIGAPP Symposium On Applied Computing in Software Engineering (SAC)*, pp. 1492-1499, ACM, Pau, France, April
 2018.
 
 8. Eun-Young Kang, Dongrui Mu, **Li Huang**, and Qianqing Lan. "[Verification and Validation
