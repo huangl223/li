@@ -1,8 +1,6 @@
 
 
-
-
-### Research Interests
+## Research Interests
 
 - Software engineering, formal methods, model-based design of Cyber-Physical Systems (CPS),
 real-time embedded systems.
