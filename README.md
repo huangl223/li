@@ -1,5 +1,5 @@
 <img style="float: right;" src="Figures/profile.jpg" width="200">
-**Research Asisitant in [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm)**
+**Research Asisitant in [School of Data and Computer Science (SDCS)](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm)**
 
 **Tel: +86 159 8918 0014**
 
@@ -8,7 +8,7 @@
 **Address: East Campus of SYSU, Guangzhou, P.R. China, 510006**
 
 
-## Research Interests
+### Research Interests
 
 - Software engineering, formal methods, model-based development of Cyber-Physical Systems (CPS),
 real-time embedded systems.
@@ -32,7 +32,7 @@ real-time embedded systems.
 - European Joint Conferences on Theory and Practice of Software (ETAPS), Prague, Czech Republic, Student Scholarship (2019)
 - Formal Methods in Computer-Aided Design (FMCAD), University of Texas, Austin, USA, Student
 Forum Travel Award (2018)
-- Chinese National Endeavor Scholarship (3 times, 2013 - 2016, Awarded by Chinese Government for top 30% students)
+- Chinese National Endeavor Scholarship (3 times, 2013 - 2016, awarded by Chinese Government for top 30% students)
 - Excellent Student Scholarship (3 times, top 20% based on GPA, 2013 - 2016)
 - Excellent Team in Ke Teng Cup Software Creativity Competition (top 5 teams, 2014)
 
@@ -81,7 +81,4 @@ C9. Eun-Young Kang, Dongrui Mu, Li Huang and Qianqing Lan. \Model-Based Analysis
 Timing and Energy Constraints in an Autonomous Vehicle System." In International Conference on Software Quality, Reliability and Security (QRS), pp. 525-532, IEEE, Prague, Czech
 Republic, July 2017.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huangl223/huangli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
