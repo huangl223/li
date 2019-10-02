@@ -21,6 +21,7 @@ real-time embedded systems.
 **Master, Software Engineering (2017 - 2019)**
 - School of Data and Computer Science, Sun Yat-Sen University
 - Master’s Thesis: Tool Supported Verification of (Non)-functional Requirements in Cyber Physical Systems Using Simulink Design Verifier 
+- GPA: 4.4/5.0
 - Advisor: [Associate Prof. Eun-Young Kang](https://sites.google.com/view/eykang/home)
 
 **Bachelor, Software Engineering (2013 - 2017)**
