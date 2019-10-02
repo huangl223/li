@@ -2,7 +2,9 @@
 ### Research Asisitant in [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm)
 
 Tel: +86 159 8918 0014
+
 Email: _huangl223_@_mail2.sysu.edu.cn_
+
 Address: East Campus of SYSU, Guangzhou, P.R. China, 510006
 
 
@@ -24,9 +26,9 @@ Address: East Campus of SYSU, Guangzhou, P.R. China, 510006
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-###Teaching Asistant
+### Teaching Asistant
 
-###Research Experienece
+### Research Experienece
 
 
 ### Publications
