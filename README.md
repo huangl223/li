@@ -10,7 +10,7 @@
 
 ## Research Interests
 
-- Software engineering, formal methods, model-based verification of Cyber-Physical Systems (CPS),
+- Software engineering, formal methods, model-based development of Cyber-Physical Systems (CPS),
 real-time embedded systems.
 
 - Tool-supported formal verification and validation techniques (e.g., Model-Checking, SAT/SMT solving).
@@ -18,18 +18,15 @@ real-time embedded systems.
 - Probabilistic analysis of software-intensive systems.
 
 ## Education
-### Master, Software Engineering
+** Master, Software Engineering (2017 - 2019)**
 - School of Data and Computer Science, Sun Yat-Sen University
-- September 2017 - 2019
-- Master’s Thesis: Tool Supported Verification of (Non)-functional Requirements in Cyber Physical Systems Using Simulink Design Verifier
+- Master’s Thesis: Tool Supported Verification of (Non)-functional Requirements in Cyber Physical Systems Using Simulink Design Verifier 
 - Advisor: Associate Prof. Eun-Young Kang
 
-### Bachelor, Software Engineering
+** Bachelor, Software Engineering (2013 - 2017)**
 - School of Data and Computer Science, Sun Yat-Sen University
-- September 2013 - 2017
 - GPA: 3.9/5.0 (top 10%)
 - Bachelor’s Thesis: Tool Supported Verification and Validation of Automotive Systems
-- Thesis Advisor: Associate Prof. Eun-Young Kang
 
 ## Award
 - European Joint Conferences on Theory and Practice of Software (ETAPS), Prague, Czech Republic, Student Scholarship (2019)
