@@ -9,3 +9,7 @@ github_username: huangl223   # 你的github账号
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
+# Sidebar settings
+sidebar: true                            #添加侧边栏
+sidebar-about-description: "简单的描述一下你自己"
+sidebar-avatar: Figure/profile.jpg     #你的大头贴，请使用绝对地址.
