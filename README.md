@@ -1,11 +1,5 @@
-<img style="float: right;" src="Figures/profile.jpg" width="200">
-**Research Asisitant in [School of Data and Computer Science (SDCS)](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm)**
 
-**Tel: +86 159 8918 0014**
 
-**Email: huangl223@mail2.sysu.edu.cn**
-
-**Address: East Campus of SYSU, Guangzhou, P.R. China, 510006**
 
 
 ### Research Interests
