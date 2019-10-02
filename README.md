@@ -3,7 +3,7 @@
 
 **Tel**: +86 159 8918 0014
 
-**Email*: huangl223@mail2.sysu.edu.cn
+**Email**: huangl223@mail2.sysu.edu.cn
 
 **Address**: East Campus of SYSU, Guangzhou, P.R. China, 510006
 
