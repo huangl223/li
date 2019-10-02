@@ -1,8 +1,8 @@
-#Li Huang 
-#Research Asisitant
-School of Data and Computer Science, Sun Yat-sen University
+```Markdown 
+### Research Asisitant in [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm)
+```
 Tel: +86 159 8918 0014
-Email: huangl223@mail2.sysu.edu.cn
+Email: _huangl223_@_mail2.sysu.edu.cn_
 Address: East Campus of SYSU, Guangzhou, P.R. China, 510006
 
 <img style="float: right;" src="Figures/profile.jpg" width="200">
@@ -11,9 +11,6 @@ Address: East Campus of SYSU, Guangzhou, P.R. China, 510006
 
 ### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
