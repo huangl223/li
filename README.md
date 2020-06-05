@@ -22,6 +22,7 @@ real-time embedded systems.
 - Bachelor’s Thesis: Tool Supported Verification and Validation of Automotive Systems
 
 ## Award
+- IEEE Real-Time Systems Symposium (RTSS), Hong Kong, Student Travel Grant (2019)
 - European Joint Conferences on Theory and Practice of Software (ETAPS), Prague, Czech Republic, Student Scholarship (2019)
 - Formal Methods in Computer-Aided Design (FMCAD), University of Texas, Austin, USA, Student
 Forum Travel Award (2018)
