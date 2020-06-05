@@ -43,8 +43,8 @@ Timing Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document
 
 2. **Li Huang**, Tian Liang and Eun-Young Kang. "[Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems.](https://arxiv.org/abs/1910.14312)" In the *International Conference on Engineering of Complex Computer Systems (ICECCS)*, Hong Kong, China, November, 2019.
 
-3. **Li Huang**, Tian Liang and Eun-Young Kang. "Tool-Supported Analysis of Dynamic and
-Stochastic Behaviors in Cyber-Physical Systems." In the *International Conference on Software Quality, Reliability, and Security (QRS)*, University of Sofia, Sofia, Bulgaria, July, 2019.
+3. **Li Huang**, Tian Liang and Eun-Young Kang. "[Tool-Supported Analysis of Dynamic and
+Stochastic Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/8854706)." In the *International Conference on Software Quality, Reliability, and Security (QRS)*, University of Sofia, Sofia, Bulgaria, July, 2019.
 
 4. **Li Huang** and Eun-Young Kang. "[Formal Verification of Safety & Security Related Timing Constraints for A Cooperative Automotive System](https://link.springer.com/chapter/10.1007/978-3-030-16722-6_12)." In the *European Joint Conferences on Theory and Practice of Software (ETAPS-FASE)*, pp. 210-227, Springer, Prague, Czech
 Republic, April, 2019.
