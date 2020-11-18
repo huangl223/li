@@ -70,3 +70,4 @@ Timing and Energy Constraints in an Autonomous Vehicle System.](https://ieeexplo
 
 ## Tool Development
 - [ProTL (Probabilistic CCSL Translator)](https://sites.google.com/view/protl/)
+- [Slimulink Patterns for Probabilistic CCSL Operators](https://github.com/huangl223/PrCCSL)
