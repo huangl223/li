@@ -1,14 +1,19 @@
 
 ## Research Interests
 
-- Software engineering, formal methods, model-based design of Cyber-Physical Systems (CPS),
-real-time embedded systems.
+- Software engineering, software verification, formal method
 
-- Tool-supported formal verification and validation techniques (e.g., Model-Checking, SAT/SMT solving).
+- Combination of static and dynamic analysis techniques, i.e., complementary proving and testing
 
-- Probabilistic analysis of software-intensive systems.
+- Static analysis of concurrent object-oriented program
+
 
 ## Education
+**PhD Student, Software Engineering (2020 - Present)**
+- Chair of Software and Security, Schaffhausen Institute of Technology
+- Advisor: [Prof. Bertrand Meyer](http://se.ethz.ch/~meyer/)
+
+
 **Master, Software Engineering (2017 - 2019)**
 - School of Data and Computer Science, Sun Yat-Sen University
 - Master’s Thesis: Tool Supported Verification of (Non)-functional Requirements in Cyber Physical Systems Using Simulink Design Verifier 
@@ -20,21 +25,17 @@ real-time embedded systems.
 - GPA: 3.9/5.0 (top 10%)
 - Bachelor’s Thesis: Tool Supported Verification and Validation of Automotive Systems
 
-## Award
-- IEEE Real-Time Systems Symposium (RTSS), Hong Kong, Student Travel Grant (2019)
-- European Joint Conferences on Theory and Practice of Software (ETAPS), Prague, Czech Republic, Student Scholarship (2019)
-- Formal Methods in Computer-Aided Design (FMCAD), University of Texas, Austin, USA, Student
-Forum Travel Award (2018)
-- Chinese National Endeavor Scholarship (3 times, 2013 - 2016, awarded by Chinese Government for top 30% students)
-- Excellent Student Scholarship (3 times, top 20% based on GPA, 2013 - 2016)
-- Excellent Team in Ke Teng Cup Software Creativity Competition (top 5 teams, 2014)
 
-## Teaching Asistant
-- **Computer Language and Implementation**, Sun Yat-Sen University, School of Data and Computer
-Science, Software Engineering Institute, Spring 2017, 2018.
-- **Introduction to Cyber-Physical Systems**: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science, Software Engineering Institute, Spring 2017, 2018.
-- **Introduction to Real-Time Systems**, Sun Yat-Sen University, School of Data and Computer Science,
-Software Engineering Institute, Fall 2017, 2018.
+## Teaching 
+
+- **Lecturer** 
+- C Programming Language, Beibu Gulf University, School of Electronic and Information Engieering, Fall 2020.
+- **Teaching Assistant** 
+- Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer
+Science, Spring 2017, 2018.
+- Introduction to Cyber-Physical Systems: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science,  Spring 2017, 2018.
+- Introduction to Real-Time Systems, Sun Yat-Sen University, School of Data and Computer Science,
+Fall 2017, 2018.
 
 
 ## Publications
@@ -66,6 +67,16 @@ of a Cyber-Physical System in the Automotive Domain](https://ieeexplore.ieee.org
 
 10. Eun-Young Kang, Dongrui Mu, **Li Huang** and Qianqing Lan. "[Model-Based Analysis of
 Timing and Energy Constraints in an Autonomous Vehicle System.](https://ieeexplore.ieee.org/document/8004368)" In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 525-532, IEEE, Prague, Czech Republic, July 2017.
+
+## Award
+- IEEE Real-Time Systems Symposium (RTSS), Hong Kong, Student Travel Grant (2019)
+- European Joint Conferences on Theory and Practice of Software (ETAPS), Prague, Czech Republic, Student Scholarship (2019)
+- Formal Methods in Computer-Aided Design (FMCAD), University of Texas, Austin, USA, Student
+Forum Travel Award (2018)
+- Chinese National Endeavor Scholarship (3 times, 2013 - 2016, awarded by Chinese Government for top 30% students)
+- Excellent Student Scholarship (3 times, top 20% based on GPA, 2013 - 2016)
+- Excellent Team in Ke Teng Cup Software Creativity Competition (top 5 teams, 2014)
+
 
 ## Tool Development
 - [ProTL (Probabilistic CCSL Translator)](https://sites.google.com/view/protl/)
