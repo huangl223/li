@@ -10,7 +10,7 @@
 
 ## Education
 **PhD Student, Software Engineering (2020 - Present)**
-- Chair of Software and Security, Schaffhausen Institute of Technology
+- [Chair of Software and Security](https://sit.org/science/software-engineering), Schaffhausen Institute of Technology
 - Advisor: [Prof. Bertrand Meyer](http://se.ethz.ch/~meyer/)
 
 
