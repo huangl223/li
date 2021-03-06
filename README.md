@@ -17,20 +17,18 @@
 **Master, Software Engineering (2017 - 2019)**
 - School of Data and Computer Science, Sun Yat-Sen University
 - Master’s Thesis: Tool Supported Verification of (Non)-functional Requirements in Cyber Physical Systems Using Simulink Design Verifier 
-- GPA: 4.4/5.0
 - Advisor: [Associate Prof. Eun-Young Kang](https://sites.google.com/view/eykang/home)
 
 **Bachelor, Software Engineering (2013 - 2017)**
 - School of Data and Computer Science, Sun Yat-Sen University
-- GPA: 3.9/5.0 (top 10%)
 - Bachelor’s Thesis: Tool Supported Verification and Validation of Automotive Systems
 
 
 ## Teaching 
 
-- **Lecturer** 
+**Lecturer** 
 - C Programming Language, Beibu Gulf University, School of Electronic and Information Engieering, Fall 2020.
-- **Teaching Assistant** 
+**Teaching Assistant** 
 - Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer
 Science, Spring 2017, 2018.
 - Introduction to Cyber-Physical Systems: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science,  Spring 2017, 2018.
