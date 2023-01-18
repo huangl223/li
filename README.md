@@ -3,14 +3,11 @@
 
 - Software engineering, software verification, formal method
 
-- Combination of static and dynamic analysis techniques, i.e., complementary proving and testing
-
-- Static analysis of concurrent object-oriented program
-
+- Static and dynamic program analysis 
 
 ## Education
 **PhD Student, Software Engineering (2020 - Present)**
-- [Chair of Software and Security](https://sit.org/science/software-engineering), Schaffhausen Institute of Technology
+- [Chair of Software and Security](https://sit.org/science/software-engineering), Constructor University
 - Advisor: [Prof. Bertrand Meyer](http://se.ethz.ch/~meyer/)
 
 
