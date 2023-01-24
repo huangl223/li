@@ -21,11 +21,9 @@
 - Bachelor’s Thesis: Tool Supported Verification and Validation of Automotive Systems
 
 
-## Teaching 
+## Teaching Assistant
 
-**Lecturer** 
-- C Programming Language, Beibu Gulf University, School of Electronic and Information Engieering, Fall 2020.
-**Teaching Assistant** 
+- Software Construction, Software Architecture, and Software Engineering, Constructor University, Fall 2022.
 - Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer
 Science, Spring 2017, 2018.
 - Introduction to Cyber-Physical Systems: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science,  Spring 2017, 2018.
