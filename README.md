@@ -20,17 +20,6 @@
 - School of Data and Computer Science, Sun Yat-Sen University
 - Bachelor’s Thesis: Tool Supported Verification and Validation of Automotive Systems
 
-
-## Teaching Assistant
-
-- Software Construction, Software Architecture, and Software Engineering, Constructor University, Fall 2022.
-- Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer
-Science, Spring 2017, 2018.
-- Introduction to Cyber-Physical Systems: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science,  Spring 2017, 2018.
-- Introduction to Real-Time Systems, Sun Yat-Sen University, School of Data and Computer Science,
-Fall 2017, 2018.
-
-
 ## Publications
 1. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
 
@@ -76,6 +65,14 @@ Forum Travel Award (2018)
 - Excellent Student Scholarship (3 times, top 20% based on GPA, 2013 - 2016)
 - Excellent Team in Ke Teng Cup Software Creativity Competition (top 5 teams, 2014)
 
+## Teaching Assistant
+
+- Software Construction, Software Architecture, and Software Engineering, Constructor University, Fall 2022.
+- Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer
+Science, Spring 2017, 2018.
+- Introduction to Cyber-Physical Systems: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science,  Spring 2017, 2018.
+- Introduction to Real-Time Systems, Sun Yat-Sen University, School of Data and Computer Science,
+Fall 2017, 2018.
 
 ## Tool Development
 - [Proof2Test](https://github.com/huangl223/Proof2Test)
