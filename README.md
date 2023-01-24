@@ -34,33 +34,39 @@ Fall 2017, 2018.
 
 
 ## Publications
-1. **Li Huang** and Eun-Young Kang. "[Work-In-Progress: Formal Analysis of Hybrid-Dynamic
+1. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
+
+2. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). Submitted to Software Testing, Verification and Reliability (STVR), 2022.
+
+3. **Li Huang**, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, ALiyu Alege. [Lessons from Formally Verified Deployed Software Systems](https://arxiv.org/abs/2301.02206), Work-in-progress for submission of ACM Computing Surveys, 2023.
+
+4. **Li Huang** and Eun-Young Kang. "[Work-In-Progress: Formal Analysis of Hybrid-Dynamic
 Timing Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9052141)." In the *IEEE Real-Time Systems SymposiumBrief Presentation (RTSS-BP)*, Hong Kong, China, December, 2019.
 
-2. **Li Huang**, Tian Liang and Eun-Young Kang. "[Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems.](https://arxiv.org/abs/1910.14312)" In the *International Conference on Engineering of Complex Computer Systems (ICECCS)*, Hong Kong, China, November, 2019.
+5. **Li Huang**, Tian Liang and Eun-Young Kang. "[Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems.](https://arxiv.org/abs/1910.14312)" In the *International Conference on Engineering of Complex Computer Systems (ICECCS)*, Hong Kong, China, November, 2019.
 
-3. **Li Huang**, Tian Liang and Eun-Young Kang. "[Tool-Supported Analysis of Dynamic and
+6. **Li Huang**, Tian Liang and Eun-Young Kang. "[Tool-Supported Analysis of Dynamic and
 Stochastic Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/8854706)." In the *International Conference on Software Quality, Reliability, and Security (QRS)*, University of Sofia, Sofia, Bulgaria, July, 2019.
 
-4. **Li Huang** and Eun-Young Kang. "[Formal Verification of Safety & Security Related Timing Constraints for A Cooperative Automotive System](https://link.springer.com/chapter/10.1007/978-3-030-16722-6_12)." In the *European Joint Conferences on Theory and Practice of Software (ETAPS-FASE)*, pp. 210-227, Springer, Prague, Czech
+7. **Li Huang** and Eun-Young Kang. "[Formal Verification of Safety & Security Related Timing Constraints for A Cooperative Automotive System](https://link.springer.com/chapter/10.1007/978-3-030-16722-6_12)." In the *European Joint Conferences on Theory and Practice of Software (ETAPS-FASE)*, pp. 210-227, Springer, Prague, Czech
 Republic, April, 2019.
 
-5. **Li Huang** and Eun-Young Kang. "[SMT-based Probabilistic Analysis of Timing Constraints
+8. **Li Huang** and Eun-Young Kang. "[SMT-based Probabilistic Analysis of Timing Constraints
 in Cyber-Physical Systems](https://arxiv.org/abs/1904.07011v1)." In the *Formal Methods in Computer-Aided Design (FMCAD) Student Forum*, University of Texas, Austin, USA, October, 2018.
 
-6. Eun-Young Kang and **Li Huang** (Presenter). "[Probabilistic Analysis of Timing Constraints
+9. Eun-Young Kang and **Li Huang** (Presenter). "[Probabilistic Analysis of Timing Constraints
 in Autonomous Automotive Systems using Simulink Design Verifier](https://link.springer.com/chapter/10.1007/978-3-319-99933-3_12)." In the *International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA)*, pp. 170-186, Springer, Beijing, China, September 2018.
 
-7. Eun-Young Kang, Dongrui Mu, and **Li Huang**. "[Probabilistic Verification of Timing Constraints in Automotive Systems using UPPAAL-SMC](https://link.springer.com/chapter/10.1007%2F978-3-319-98938-9_14)." In the *International Conference on Integrated Formal Methods (IFM)*, pp. 236-254, Springer, Maynooth, Ireland, September 2018.
+10. Eun-Young Kang, Dongrui Mu, and **Li Huang**. "[Probabilistic Verification of Timing Constraints in Automotive Systems using UPPAAL-SMC](https://link.springer.com/chapter/10.1007%2F978-3-319-98938-9_14)." In the *International Conference on Integrated Formal Methods (IFM)*, pp. 236-254, Springer, Maynooth, Ireland, September 2018.
 
-8. Eun-Young Kang, **Li Huang**, and Dongrui Mu. "[Formal Verification of Energy and Timed
+11. Eun-Young Kang, **Li Huang**, and Dongrui Mu. "[Formal Verification of Energy and Timed
 Requirements for a Cooperative Automotive System](https://dl.acm.org/citation.cfm?id=3167291)." In the *ACM/SIGAPP Symposium On Applied Computing in Software Engineering (SAC)*, pp. 1492-1499, ACM, Pau, France, April
 2018.
 
-9. Eun-Young Kang, Dongrui Mu, **Li Huang**, and Qianqing Lan. "[Verification and Validation
+12. Eun-Young Kang, Dongrui Mu, **Li Huang**, and Qianqing Lan. "[Verification and Validation
 of a Cyber-Physical System in the Automotive Domain](https://ieeexplore.ieee.org/document/8004339/)." In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 326-333, IEEE, Prague, Czech Republic, July 2017.
 
-10. Eun-Young Kang, Dongrui Mu, **Li Huang** and Qianqing Lan. "[Model-Based Analysis of
+13. Eun-Young Kang, Dongrui Mu, **Li Huang** and Qianqing Lan. "[Model-Based Analysis of
 Timing and Energy Constraints in an Autonomous Vehicle System.](https://ieeexplore.ieee.org/document/8004368)" In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 525-532, IEEE, Prague, Czech Republic, July 2017.
 
 ## Award
@@ -74,5 +80,6 @@ Forum Travel Award (2018)
 
 
 ## Tool Development
+- [Proof2Test](https://github.com/huangl223/Proof2Test)
 - [ProTL (Probabilistic CCSL Translator)](https://sites.google.com/view/protl/)
 - [Slimulink Patterns for Probabilistic CCSL Operators](https://github.com/huangl223/PrCCSL)
