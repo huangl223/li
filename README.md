@@ -36,9 +36,9 @@ Fall 2017, 2018.
 ## Publications
 1. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
 
-2. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). Submitted to Software Testing, Verification and Reliability (STVR), 2022.
+2. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). Submitted to *Software Testing, Verification and Reliability (STVR)*, 2022.
 
-3. **Li Huang**, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, ALiyu Alege. [Lessons from Formally Verified Deployed Software Systems](https://arxiv.org/abs/2301.02206), Work-in-progress for submission of ACM Computing Surveys, 2023.
+3. **Li Huang**, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, ALiyu Alege. [Lessons from Formally Verified Deployed Software Systems](https://arxiv.org/abs/2301.02206), Work-in-progress for submission of *ACM Computing Surveys*, 2023.
 
 4. **Li Huang** and Eun-Young Kang. "[Work-In-Progress: Formal Analysis of Hybrid-Dynamic
 Timing Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9052141)." In the *IEEE Real-Time Systems SymposiumBrief Presentation (RTSS-BP)*, Hong Kong, China, December, 2019.
