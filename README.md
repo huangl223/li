@@ -28,7 +28,7 @@
 
 3. **Li Huang**, Bertrand Meyer, Ilgiz Mustafin, Manuel Oriol. [Execution-Free Program Repair](https://dl.acm.org/doi/abs/10.1145/3663529.3663789). In *Companion Proceedings of the International Conference on the Foundations of Software Engineering (FSE-IVR)*, 2024.
 
-4. Bertrand Meyer, Viktoryia Kananchuk,**Li Huang**. [BUGFIX: towards a common language and framework for the Automatic Program Repair community](https://dl.acm.org/doi/abs/10.1145/3643788.3648007). In the *International Workshop on Automated Program Repair*, pp. 9-13. 2024.
+4. Bertrand Meyer, Viktoryia Kananchuk, **Li Huang**. [BUGFIX: towards a common language and framework for the Automatic Program Repair community](https://dl.acm.org/doi/abs/10.1145/3643788.3648007). In the *International Workshop on Automated Program Repair*, pp. 9-13. 2024.
 
 5. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). In *Software Testing, Verification and Reliability (STVR)*, 33(7), 2023.
 
