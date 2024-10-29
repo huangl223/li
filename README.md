@@ -22,7 +22,7 @@
 
 ## Publications
 
-1. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites]. Accepted in the *Special Issue: Testing Software and Systems: theory and applications, in Spriner Nature Computer Science (SNCS)*, October, 2024.
+1. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://arxiv.org/abs/2309.04232). Accepted in the *Special Issue: Testing Software and Systems: theory and applications, in Spriner Nature Computer Science (SNCS)*, October, 2024.
  
 2.  **Li Huang**, Bertrand Meyer, Manuel Oriol. ["Is MCDC Really Better? Lessons from Combining Tests and Proofs"](https://link.springer.com/chapter/10.1007/978-3-031-72044-4_2). In the *International Conference on Tests and Proofs (TAP)*, pp. 25-44. 2024.
 
