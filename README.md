@@ -32,7 +32,7 @@
 
 5. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). In *Software Testing, Verification and Reliability (STVR)*, 33(7), 2023.
 
-6. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites]. In *IFIP International Conference on Testing Software and Systems*, pp. 52-70, 2023
+6. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://link.springer.com/chapter/10.1007/978-3-031-43240-8_4). In *IFIP International Conference on Testing Software and Systems*, pp. 52-70, 2023
 
 7. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
    
