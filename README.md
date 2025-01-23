@@ -1,12 +1,10 @@
 
 ## Research Interests
 
-- Software engineering, software verification, formal method
-
-- Static and dynamic program analysis 
+- Software testing, formal verification, program analysis 
 
 ## Education
-**PhD Student, Software Engineering (2020 - Present)**
+**PhD, Software Engineering (2020 - 2025)**
 - [Chair of Software and Security](https://institute.constructor.org/), Constructor Institute of Technology & Constructor University
 - Advisor: [Prof. Bertrand Meyer](http://se.ethz.ch/~meyer/)
 
