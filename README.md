@@ -34,39 +34,39 @@
 
 7. Bertrand Meyer, Viktoryia Kananchuk, **Li Huang**. [BUGFIX: towards a common language and framework for the Automatic Program Repair community](https://dl.acm.org/doi/abs/10.1145/3643788.3648007). In the *International Workshop on Automated Program Repair*, pp. 9-13. 2024.
 
-. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). In *Software Testing, Verification and Reliability (STVR)*, 33(7), 2023.
+8. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). In *Software Testing, Verification and Reliability (STVR)*, 33(7), 2023.
 
-6. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://link.springer.com/chapter/10.1007/978-3-031-43240-8_4). In *IFIP International Conference on Testing Software and Systems*, pp. 52-70, 2023
+9. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://link.springer.com/chapter/10.1007/978-3-031-43240-8_4). In *IFIP International Conference on Testing Software and Systems*, pp. 52-70, 2023
 
-7. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
+10. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
 
-9. **Li Huang** and Eun-Young Kang. "[Work-In-Progress: Formal Analysis of Hybrid-Dynamic
+11. **Li Huang** and Eun-Young Kang. "[Work-In-Progress: Formal Analysis of Hybrid-Dynamic
 Timing Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9052141)." In the *IEEE Real-Time Systems Symposium Brief Presentation (RTSS-BP)*, Hong Kong, China, December, 2019.
 
-10. **Li Huang**, Tian Liang and Eun-Young Kang. "[Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems.](https://arxiv.org/abs/1910.14312)" In the *International Conference on Engineering of Complex Computer Systems (ICECCS)*, Hong Kong, China, November, 2019.
+12. **Li Huang**, Tian Liang and Eun-Young Kang. "[Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems.](https://arxiv.org/abs/1910.14312)" In the *International Conference on Engineering of Complex Computer Systems (ICECCS)*, Hong Kong, China, November, 2019.
 
-11. **Li Huang**, Tian Liang and Eun-Young Kang. "[Tool-Supported Analysis of Dynamic and
+13. **Li Huang**, Tian Liang and Eun-Young Kang. "[Tool-Supported Analysis of Dynamic and
 Stochastic Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/8854706)." In the *International Conference on Software Quality, Reliability, and Security (QRS)*, University of Sofia, Sofia, Bulgaria, July, 2019.
 
-12. **Li Huang** and Eun-Young Kang. "[Formal Verification of Safety & Security Related Timing Constraints for A Cooperative Automotive System](https://link.springer.com/chapter/10.1007/978-3-030-16722-6_12)." In the *European Joint Conferences on Theory and Practice of Software (ETAPS-FASE)*, pp. 210-227, Springer, Prague, Czech
+14. **Li Huang** and Eun-Young Kang. "[Formal Verification of Safety & Security Related Timing Constraints for A Cooperative Automotive System](https://link.springer.com/chapter/10.1007/978-3-030-16722-6_12)." In the *European Joint Conferences on Theory and Practice of Software (ETAPS-FASE)*, pp. 210-227, Springer, Prague, Czech
 Republic, April, 2019.
 
-13. **Li Huang** and Eun-Young Kang. "[SMT-based Probabilistic Analysis of Timing Constraints
+15. **Li Huang** and Eun-Young Kang. "[SMT-based Probabilistic Analysis of Timing Constraints
 in Cyber-Physical Systems](https://arxiv.org/abs/1904.07011v1)." In the *Formal Methods in Computer-Aided Design (FMCAD) Student Forum*, University of Texas, Austin, USA, October, 2018.
 
-14. Eun-Young Kang and **Li Huang** (Presenter). "[Probabilistic Analysis of Timing Constraints
+16. Eun-Young Kang and **Li Huang** (Presenter). "[Probabilistic Analysis of Timing Constraints
 in Autonomous Automotive Systems using Simulink Design Verifier](https://link.springer.com/chapter/10.1007/978-3-319-99933-3_12)." In the *International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA)*, pp. 170-186, Springer, Beijing, China, September 2018.
 
-15. Eun-Young Kang, Dongrui Mu, and **Li Huang**. "[Probabilistic Verification of Timing Constraints in Automotive Systems using UPPAAL-SMC](https://link.springer.com/chapter/10.1007%2F978-3-319-98938-9_14)." In the *International Conference on Integrated Formal Methods (IFM)*, pp. 236-254, Springer, Maynooth, Ireland, September 2018.
+17. Eun-Young Kang, Dongrui Mu, and **Li Huang**. "[Probabilistic Verification of Timing Constraints in Automotive Systems using UPPAAL-SMC](https://link.springer.com/chapter/10.1007%2F978-3-319-98938-9_14)." In the *International Conference on Integrated Formal Methods (IFM)*, pp. 236-254, Springer, Maynooth, Ireland, September 2018.
 
-16. Eun-Young Kang, **Li Huang**, and Dongrui Mu. "[Formal Verification of Energy and Timed
+18. Eun-Young Kang, **Li Huang**, and Dongrui Mu. "[Formal Verification of Energy and Timed
 Requirements for a Cooperative Automotive System](https://dl.acm.org/citation.cfm?id=3167291)." In the *ACM/SIGAPP Symposium On Applied Computing in Software Engineering (SAC)*, pp. 1492-1499, ACM, Pau, France, April
 2018.
 
-17. Eun-Young Kang, Dongrui Mu, **Li Huang**, and Qianqing Lan. "[Verification and Validation
+19. Eun-Young Kang, Dongrui Mu, **Li Huang**, and Qianqing Lan. "[Verification and Validation
 of a Cyber-Physical System in the Automotive Domain](https://ieeexplore.ieee.org/document/8004339/)." In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 326-333, IEEE, Prague, Czech Republic, July 2017.
 
-18. Eun-Young Kang, Dongrui Mu, **Li Huang** and Qianqing Lan. "[Model-Based Analysis of
+20. Eun-Young Kang, Dongrui Mu, **Li Huang** and Qianqing Lan. "[Model-Based Analysis of
 Timing and Energy Constraints in an Autonomous Vehicle System.](https://ieeexplore.ieee.org/document/8004368)" In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 525-532, IEEE, Prague, Czech Republic, July 2017.
 
 ## Technical Patent
