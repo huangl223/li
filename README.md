@@ -1,13 +1,13 @@
 
 ## Research Interests
 
-- Software testing, formal verification, program analysis 
+- Software testing, formal verification, program analysis, formal method, AI4SE
 
 ## Education
 **PhD, Software Engineering (2020 - 2025)**
 - [Chair of Software and Security](https://institute.constructor.org/), Constructor Institute of Technology & Constructor University
+- PhD thesis: [Straddling the border between tests and proofs](https://opus.constructor.university/frontdoor/index/index/docId/1298)
 - Advisor: [Prof. Bertrand Meyer](http://se.ethz.ch/~meyer/)
-
 
 **Master, Software Engineering (2017 - 2019)**
 - School of Data and Computer Science, Sun Yat-Sen University
@@ -20,24 +20,28 @@
 
 ## Publications
 
-1. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://arxiv.org/abs/2309.04232). Accepted in the *Special Issue: Testing Software and Systems: theory and applications, in Springer Nature Computer Science (SNCS)*, October, 2024.
+1. **Li Huang**, Ilgiz Mustafin, Marco Piccioni, Alessandro Schena, Reto Weber, and Bertrand Meyer. [Do AI models help produce verified bug fixes](https://www.arxiv.org/abs/2507.15822), arXiv preprint arXiv:2507.15822, 2025.
+
+2. **Li Huang**, Bertrand Meyer, and Reto Weber. [Loop unrolling: formal definition and application to testing](https://arxiv.org/abs/2502.15535), to appear at the International Conference on Testing Software and Systems (ICTSS), available at arXiv:2502.15535, 2025.
+
+3. **Li Huang**, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, Aliyu Alege. [Lessons from Formally Verified Deployed Software Systems](https://arxiv.org/abs/2301.02206), to appear at ACM Computing Surveys, available at arxiv.org/abs/2301.02206, 2025.
+
+4. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://arxiv.org/abs/2309.04232). Accepted in the *Special Issue: Testing Software and Systems: theory and applications, in Springer Nature Computer Science (SNCS)*, October, 2024.
  
-2.  **Li Huang**, Bertrand Meyer, Manuel Oriol. ["Is MCDC Really Better? Lessons from Combining Tests and Proofs"](https://link.springer.com/chapter/10.1007/978-3-031-72044-4_2). In the *International Conference on Tests and Proofs (TAP)*, pp. 25-44. 2024.
+5. **Li Huang**, Bertrand Meyer, Manuel Oriol. ["Is MCDC Really Better? Lessons from Combining Tests and Proofs"](https://link.springer.com/chapter/10.1007/978-3-031-72044-4_2). In the *International Conference on Tests and Proofs (TAP)*, pp. 25-44. 2024.
 
-3. **Li Huang**, Bertrand Meyer, Ilgiz Mustafin, Manuel Oriol. [Execution-Free Program Repair](https://dl.acm.org/doi/abs/10.1145/3663529.3663789). In *Companion Proceedings of the International Conference on the Foundations of Software Engineering (FSE-IVR)*, 2024.
+6. **Li Huang**, Bertrand Meyer, Ilgiz Mustafin, Manuel Oriol. [Execution-Free Program Repair](https://dl.acm.org/doi/abs/10.1145/3663529.3663789). In *Companion Proceedings of the International Conference on the Foundations of Software Engineering (FSE-IVR)*, 2024.
 
-4. Bertrand Meyer, Viktoryia Kananchuk, **Li Huang**. [BUGFIX: towards a common language and framework for the Automatic Program Repair community](https://dl.acm.org/doi/abs/10.1145/3643788.3648007). In the *International Workshop on Automated Program Repair*, pp. 9-13. 2024.
+7. Bertrand Meyer, Viktoryia Kananchuk, **Li Huang**. [BUGFIX: towards a common language and framework for the Automatic Program Repair community](https://dl.acm.org/doi/abs/10.1145/3643788.3648007). In the *International Workshop on Automated Program Repair*, pp. 9-13. 2024.
 
-5. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). In *Software Testing, Verification and Reliability (STVR)*, 33(7), 2023.
+. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). In *Software Testing, Verification and Reliability (STVR)*, 33(7), 2023.
 
 6. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://link.springer.com/chapter/10.1007/978-3-031-43240-8_4). In *IFIP International Conference on Testing Software and Systems*, pp. 52-70, 2023
 
 7. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
-   
-8. **Li Huang**, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, ALiyu Alege. [Lessons from Formally Verified Deployed Software Systems](https://arxiv.org/abs/2301.02206), Work-in-progress for submission of *ACM Computing Surveys*, 2023.
 
 9. **Li Huang** and Eun-Young Kang. "[Work-In-Progress: Formal Analysis of Hybrid-Dynamic
-Timing Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9052141)." In the *IEEE Real-Time Systems SymposiumBrief Presentation (RTSS-BP)*, Hong Kong, China, December, 2019.
+Timing Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9052141)." In the *IEEE Real-Time Systems Symposium Brief Presentation (RTSS-BP)*, Hong Kong, China, December, 2019.
 
 10. **Li Huang**, Tian Liang and Eun-Young Kang. "[Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems.](https://arxiv.org/abs/1910.14312)" In the *International Conference on Engineering of Complex Computer Systems (ICECCS)*, Hong Kong, China, November, 2019.
 
@@ -66,27 +70,25 @@ of a Cyber-Physical System in the Automotive Domain](https://ieeexplore.ieee.org
 Timing and Energy Constraints in an Autonomous Vehicle System.](https://ieeexplore.ieee.org/document/8004368)" In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 525-532, IEEE, Prague, Czech Republic, July 2017.
 
 ## Technical Patent
--- Patent US20240045791A1: System and method for generating failing tests from failed proofs
-
+- 034-22-US-001, System and method for generating failing tests from failed proofs, 2022
+- 034-23-US-012, Seeding contradiction as a fast method for generating full-coverage test suites, 2023
+- 034-23-US-018, System and method for repairing computer programs automatically without execution, 2024
 
 ## Award
 - IEEE Real-Time Systems Symposium (RTSS), Hong Kong, Student Travel Grant (2019)
 - European Joint Conferences on Theory and Practice of Software (ETAPS), Prague, Czech Republic, Student Scholarship (2019)
-- Formal Methods in Computer-Aided Design (FMCAD), University of Texas, Austin, USA, Student
-Forum Travel Award (2018)
+- Formal Methods in Computer-Aided Design (FMCAD), University of Texas, Austin, USA, Student Forum Travel Award (2018)
 - Chinese National Endeavor Scholarship (3 times, 2013 - 2016, awarded by Chinese Government for top 30% students)
 - Excellent Student Scholarship (3 times, top 20% based on GPA, 2013 - 2016)
 - Excellent Team in Ke Teng Cup Software Creativity Competition (top 5 teams, 2014)
 
 ## Teaching Assistant
-
+- Algorithms and Data Structure, Spring 2025. 
 - Software Construction, Software Architecture, and Software Engineering, Constructor Institute of Technology, Fall 2022, 2023, 2024.
 - Advances in Software Engineering, Constructor Institute of Technology, Fall 2023, 2024.
-- Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer
-Science, Spring 2017, 2018.
+- Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer Science, Spring 2017, 2018.
 - Introduction to Cyber-Physical Systems: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science,  Spring 2017, 2018.
-- Introduction to Real-Time Systems, Sun Yat-Sen University, School of Data and Computer Science,
-Fall 2017, 2018.
+- Introduction to Real-Time Systems, Sun Yat-Sen University, School of Data and Computer Science, Fall 2017, 2018.
 
 ## Tool Development
 - [Proof2Test](https://github.com/huangl223/Proof2Test)
