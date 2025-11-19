@@ -1,96 +1,83 @@
+![Awesome Portfolio Website](./readme_assets/banner_apw.png)
 
-## Research Interests
+<div align="center">
 
-- Software testing, formal verification, program analysis, formal method, AI4SE
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
 
-## Education
-**PhD, Software Engineering (2020 - 2025)**
-- [Chair of Software and Security](https://institute.constructor.org/), Constructor Institute of Technology & Constructor University
-- PhD thesis: [Straddling the border between tests and proofs](https://opus.constructor.university/frontdoor/index/index/docId/1298)
-- Advisor: [Prof. Bertrand Meyer](http://se.ethz.ch/~meyer/)
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors"><img src="https://img.shields.io/github/contributors/smaranjitghose/awesome-portfolio-websites?color=brightgreen"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/stargazers"><img src="https://img.shields.io/github/stars/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/network/members"><img src="https://img.shields.io/github/forks/smaranjitghose/awesome-portfolio-websites?color=yellow"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/issues"><img src="https://img.shields.io/github/issues/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/smaranjitghose/awesome-portfolio-websites?color=yellow"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/pulls"><img src="https://img.shields.io/github/issues-pr/smaranjitghose/awesome-portfolio-websites?color=brightgreen"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
 
-**Master, Software Engineering (2017 - 2019)**
-- School of Data and Computer Science, Sun Yat-Sen University
-- Master’s Thesis: Tool Supported Verification of (Non)-functional Requirements in Cyber Physical Systems Using Simulink Design Verifier 
-- Advisor: [Associate Prof. Eun-Young Kang](https://sites.google.com/view/eykang/home)
+</div>
 
-**Bachelor, Software Engineering (2013 - 2017)**
-- School of Data and Computer Science, Sun Yat-Sen University
-- Bachelor’s Thesis: Tool Supported Verification and Validation of Automotive Systems
+A community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavours.
 
-## Publications
+## A sneak peek into what we have here🙈 :
 
-1. **Li Huang**, Ilgiz Mustafin, Marco Piccioni, Alessandro Schena, Reto Weber, and Bertrand Meyer. [Do AI models help produce verified bug fixes](https://www.arxiv.org/abs/2507.15822), arXiv preprint arXiv:2507.15822, 2025.
+### Home Page:
 
-2. **Li Huang**, Bertrand Meyer, and Reto Weber. [Loop unrolling: formal definition and application to testing](https://arxiv.org/abs/2502.15535), to appear at the International Conference on Testing Software and Systems (ICTSS), available at arXiv:2502.15535, 2025.
+<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
 
-3. **Li Huang**, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, Aliyu Alege. [Lessons from Formally Verified Deployed Software Systems](https://arxiv.org/abs/2301.02206), to appear at ACM Computing Surveys, available at arxiv.org/abs/2301.02206, 2025.
+### Experience Page:
 
-4. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://arxiv.org/abs/2309.04232). Accepted in the *Special Issue: Testing Software and Systems: theory and applications, in Springer Nature Computer Science (SNCS)*, October, 2024.
- 
-5. **Li Huang**, Bertrand Meyer, Manuel Oriol. ["Is MCDC Really Better? Lessons from Combining Tests and Proofs"](https://link.springer.com/chapter/10.1007/978-3-031-72044-4_2). In the *International Conference on Tests and Proofs (TAP)*, pp. 25-44. 2024.
+<p align="center"><img src="./readme_assets/Experience_Page.gif"></p>
 
-6. **Li Huang**, Bertrand Meyer, Ilgiz Mustafin, Manuel Oriol. [Execution-Free Program Repair](https://dl.acm.org/doi/abs/10.1145/3663529.3663789). In *Companion Proceedings of the International Conference on the Foundations of Software Engineering (FSE-IVR)*, 2024.
+### Project Page:
 
-7. Bertrand Meyer, Viktoryia Kananchuk, **Li Huang**. [BUGFIX: towards a common language and framework for the Automatic Program Repair community](https://dl.acm.org/doi/abs/10.1145/3643788.3648007). In the *International Workshop on Automated Program Repair*, pp. 9-13. 2024.
+<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
 
-8. **Li Huang**, Bertrand Meyer. [A Failed Proof Can Yield a Useful Test](https://arxiv.org/abs/2208.09873). In *Software Testing, Verification and Reliability (STVR)*, 33(7), 2023.
+### Research Page:
 
-9. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites](https://link.springer.com/chapter/10.1007/978-3-031-43240-8_4). In *IFIP International Conference on Testing Software and Systems*, pp. 52-70, 2023
+<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
 
-10. **Li Huang**, Bertrand Meyer, Manuel Oriol. [Improving Counterexample Quality from Failed Program Verification](https://arxiv.org/abs/2208.10492). In the *IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)*, North Carolina, October, 2022.
+### Education Page:
 
-11. **Li Huang** and Eun-Young Kang. "[Work-In-Progress: Formal Analysis of Hybrid-Dynamic
-Timing Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9052141)." In the *IEEE Real-Time Systems Symposium Brief Presentation (RTSS-BP)*, Hong Kong, China, December, 2019.
+<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
 
-12. **Li Huang**, Tian Liang and Eun-Young Kang. "[Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems.](https://arxiv.org/abs/1910.14312)" In the *International Conference on Engineering of Complex Computer Systems (ICECCS)*, Hong Kong, China, November, 2019.
+## How to use this?🛠
 
-13. **Li Huang**, Tian Liang and Eun-Young Kang. "[Tool-Supported Analysis of Dynamic and
-Stochastic Behaviors in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/8854706)." In the *International Conference on Software Quality, Reliability, and Security (QRS)*, University of Sofia, Sofia, Bulgaria, July, 2019.
+[Check out our awesome Documentation](https://smaranjitghose.github.io/awesome-portfolio-websites/)
 
-14. **Li Huang** and Eun-Young Kang. "[Formal Verification of Safety & Security Related Timing Constraints for A Cooperative Automotive System](https://link.springer.com/chapter/10.1007/978-3-030-16722-6_12)." In the *European Joint Conferences on Theory and Practice of Software (ETAPS-FASE)*, pp. 210-227, Springer, Prague, Czech
-Republic, April, 2019.
+## Contribution Guidelines🏗
 
-15. **Li Huang** and Eun-Young Kang. "[SMT-based Probabilistic Analysis of Timing Constraints
-in Cyber-Physical Systems](https://arxiv.org/abs/1904.07011v1)." In the *Formal Methods in Computer-Aided Design (FMCAD) Student Forum*, University of Texas, Austin, USA, October, 2018.
+Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further.
 
-16. Eun-Young Kang and **Li Huang** (Presenter). "[Probabilistic Analysis of Timing Constraints
-in Autonomous Automotive Systems using Simulink Design Verifier](https://link.springer.com/chapter/10.1007/978-3-319-99933-3_12)." In the *International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA)*, pp. 170-186, Springer, Beijing, China, September 2018.
+Click on the image below to set up and contribute to the project or [Click here](https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md)
 
-17. Eun-Young Kang, Dongrui Mu, and **Li Huang**. "[Probabilistic Verification of Timing Constraints in Automotive Systems using UPPAAL-SMC](https://link.springer.com/chapter/10.1007%2F978-3-319-98938-9_14)." In the *International Conference on Integrated Formal Methods (IFM)*, pp. 236-254, Springer, Maynooth, Ireland, September 2018.
+<a href = "https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md">
+<img src = "./readme_assets/Contribution.png"></a>
 
-18. Eun-Young Kang, **Li Huang**, and Dongrui Mu. "[Formal Verification of Energy and Timed
-Requirements for a Cooperative Automotive System](https://dl.acm.org/citation.cfm?id=3167291)." In the *ACM/SIGAPP Symposium On Applied Computing in Software Engineering (SAC)*, pp. 1492-1499, ACM, Pau, France, April
-2018.
+## Project Maintainers👨🏫:
 
-19. Eun-Young Kang, Dongrui Mu, **Li Huang**, and Qianqing Lan. "[Verification and Validation
-of a Cyber-Physical System in the Automotive Domain](https://ieeexplore.ieee.org/document/8004339/)." In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 326-333, IEEE, Prague, Czech Republic, July 2017.
+| <img src = "https://avatars2.githubusercontent.com/u/46641503?v=4"> | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4"> | 
+| :----------------------------------------------------------: | :----------------------------------------------------------: | 
+|     [Smaranjit Ghose](https://github.com/smaranjitghose) |    [Anush Bhatia](https://github.com/anushbhatia)                       
 
-20. Eun-Young Kang, Dongrui Mu, **Li Huang** and Qianqing Lan. "[Model-Based Analysis of
-Timing and Energy Constraints in an Autonomous Vehicle System.](https://ieeexplore.ieee.org/document/8004368)" In the *International Conference on Software Quality, Reliability and Security (QRS)*, pp. 525-532, IEEE, Prague, Czech Republic, July 2017.
 
-## Technical Patent
-- 034-22-US-001, System and method for generating failing tests from failed proofs, 2022
-- 034-23-US-012, Seeding contradiction as a fast method for generating full-coverage test suites, 2023
-- 034-23-US-018, System and method for repairing computer programs automatically without execution, 2024
+## Our valuable Contributors👩‍💻👨‍💻 :
 
-## Award
-- IEEE Real-Time Systems Symposium (RTSS), Hong Kong, Student Travel Grant (2019)
-- European Joint Conferences on Theory and Practice of Software (ETAPS), Prague, Czech Republic, Student Scholarship (2019)
-- Formal Methods in Computer-Aided Design (FMCAD), University of Texas, Austin, USA, Student Forum Travel Award (2018)
-- Chinese National Endeavor Scholarship (3 times, 2013 - 2016, awarded by Chinese Government for top 30% students)
-- Excellent Student Scholarship (3 times, top 20% based on GPA, 2013 - 2016)
-- Excellent Team in Ke Teng Cup Software Creativity Competition (top 5 teams, 2014)
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=smaranjitghose/awesome-portfolio-websites" />
+</a>
 
-## Teaching Assistant
-- Algorithms and Data Structure, Spring 2025. 
-- Software Construction, Software Architecture, and Software Engineering, Constructor Institute of Technology, Fall 2022, 2023, 2024.
-- Advances in Software Engineering, Constructor Institute of Technology, Fall 2023, 2024.
-- Computer Language and Implementation, Sun Yat-Sen University, School of Data and Computer Science, Spring 2017, 2018.
-- Introduction to Cyber-Physical Systems: Intelligent Vehicle Software Design, Sun Yat-Sen University, School of Data and Computer Science,  Spring 2017, 2018.
-- Introduction to Real-Time Systems, Sun Yat-Sen University, School of Data and Computer Science, Fall 2017, 2018.
+## Open Source Programs we have been a part of:
 
-## Tool Development
-- [Proof2Test](https://github.com/huangl223/Proof2Test)
-- [ProTL (Probabilistic CCSL Translator)](https://sites.google.com/view/protl/)
-- [Slimulink Patterns for Probabilistic CCSL Operators](https://github.com/huangl223/PrCCSL)
+<p align="center">
+<a href="https://scodein.tech/"><img src="./readme_assets/open_source_programs/sci.png" width= "25%"/></a>
+<a href="https://hakincodes.tech/"><img src="./readme_assets/open_source_programs/ch.png" width= "25%"/></a>
+<a href="https://njackwinterofcode.github.io/"><img src="./readme_assets/open_source_programs/nwoc.png" width= "25%" /></a>
+<a href="https://devscript.tech/woc/"><img src="./readme_assets/open_source_programs/dwoc.png" width="25%"></a>
+<a href="https://mexili.github.io/winter_of_code/#/"><img src="./readme_assets/open_source_programs/mwoc.png" width="25%"></a>
+<a href="https://crosswoc.ieeedtu.in/"><img src="./readme_assets/open_source_programs/crosswoc.png" width="25%"></a>
+<a href="https://letsgrowmore.in/soc/"><img src="./readme_assets/open_source_programs/lgmsoc.png" width="25%"></a>
+<a href="https://devincept.codes/"><img src="./readme_assets/open_source_programs/devincept.gif" width="25%"></a>
+<a href="https://ghc.anitab.org/programs-and-awards/open-source-day/"><img src="./readme_assets/open_source_programs/OSD.jpg" width="25%"></a>
+</p>
