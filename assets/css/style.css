@@ -229,7 +229,7 @@ html {
 
 .navbar-brand {
   font-family: Agustina;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: bold;
 }
 
@@ -238,6 +238,7 @@ html {
   background-color: #fff;
   z-index: 2;
   box-shadow: 0 2px 2px rgb(230, 230, 230);
+  font-size: 30px;
 }
 
 html {
@@ -370,7 +371,7 @@ color: #ffffff !important;
   
   .nav-item:hover::after {
       width: 50%;
-      
+      text-align: center;
   }
 
   li.nav-item {
@@ -378,6 +379,7 @@ color: #ffffff !important;
   }
   a.nav-link {
       padding: 6px 21px !important;
+      text-align: center;
   }
 
   /* Hide svg on laptop screens to prevent overlap between sidebar and navbar */
@@ -388,10 +390,10 @@ color: #ffffff !important;
 
 /* navbar hover for light mode */
 html[light-mode="light"] .nav-link{
-  color: #000000 !important;
+  color: #fff !important;
 }
 html[light-mode="light"] .nav-link:hover{
-  color: 	rgb(106, 0, 187) !important;
+  color: 	rgb(255, 255, 255) !important;
 }
 html[light-mode="light"] .navbar-brand:hover{
   color: #ffffff !important;
