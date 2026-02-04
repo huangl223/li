@@ -447,7 +447,7 @@ html[light-mode="light"] .github-icon{
   color: #fff;
 }
 a:hover {
-  color: transparent;
+  color: rgba(72, 72, 144, 0.688);
 }
 
 
