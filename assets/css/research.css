@@ -23,24 +23,19 @@ html[light-mode="light"] {
 /*Declaring CSS variables for Dark Mode*/
 
 html[light-mode="dark"] {
-  --bg1-color: #272727;
-  --bg-col: rgba(0, 0, 0, 0);
-  --text-gra: ;
-  --bg-txt-img: linear-gradient(315deg, #d5adc8 0%, #ff8489 74%);
-  --txt-fill: transparent;
-  --p-up: #fff;
-  --bg-head: rgba(0, 0, 0, 0.877);
-  --bg-head-img: rgba(0, 0, 0, 0.877);
-  --bg-cite-y: rgba(0, 0, 0, 0.877);
-  --black-two: rgba(0, 0, 0, 0.877);
-  --cite-head: rgb(59, 55, 55);
-  --cite-bg: black;
-  --cite-col-txt: #fff;
-  --cite-close: rgba(0, 0, 0, 0.192);
-  --cite-hover: #fff;
-  --hover-link: rgb(236, 103, 125);
-  --shadow-col1: rgb(29, 28, 28);
-  --shadow-col2: rgba(34, 34, 34, 0.459);
+  --bg1-color: #ffffff;
+  --bg-head: #ffffff;
+  --bg-col: #fff;
+  --p-up: black;
+  --bg-cite-y: #f5f5f5;
+  --cite-bg: #fff;
+  --cite-head: rgb(221, 217, 217);
+  --cite-col-txt: #333;
+  --cite-close: #333;
+  --cite-hover: black;
+  --hover-link: black;
+  --shadow-col1: #a3b1c6;
+  --shadow-col2: #ffffff;
 }
 
 html {
