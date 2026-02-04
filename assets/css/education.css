@@ -19,12 +19,12 @@ html[light-mode="light"] {
 }
 
 html[light-mode="dark"] {
-  --bg1-color: #272727;
-  --shadow: 0 4px 8px 0 rgba(104, 102, 102, 0.2);
-  --border: none;
-  --meta-col: rgb(155, 149, 149);
-  --head-col: #fff;
-  --tint-col: #ecf0f3be;
+  --bg1-color: white;
+  --shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  --border: 1px solid #ecf0f3;
+  --meta-col: #444;
+  --head-col: black;
+  --tint-col: #ecf0f3;
 }
 
 html {

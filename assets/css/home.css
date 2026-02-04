@@ -143,7 +143,7 @@ a.socialicon {
 }
 
 /* Social icon in dark mode */
-html[light-mode="dark"] .socialicon{
+html[light-mode="light"] .socialicon{
   background-color: #141516;
 }
 
@@ -306,7 +306,7 @@ html[light-mode="dark"] .socialicon{
    GITHUB MICROANIMATION
 --------------------------
 */
-html[light-mode="dark"] .github-icon{
+html[light-mode="light"] .github-icon{
   fill: #ffff;
 }
 
