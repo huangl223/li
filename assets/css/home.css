@@ -144,7 +144,7 @@ a.socialicon {
 
 /* Social icon in dark mode */
 html[light-mode="light"] .socialicon{
-  background-color: #141516;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .kaggle i {
