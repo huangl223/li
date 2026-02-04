@@ -46,8 +46,8 @@ body {
 }
 
 body[light-mode="light"] {
-  background-color: #141516;
-  color: #ced4e2;
+  background-color: rgba(0, 0, 0, 0);
+  color: #141516;
 }
 
 body[light-mode="light"] .light-mode-button span:nth-child(1) {
