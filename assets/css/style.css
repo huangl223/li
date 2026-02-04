@@ -234,7 +234,7 @@ html {
 }
 
 .navbar {
-  color: #000000;
+  color: #fff;
   background-color: #fff;
   z-index: 2;
   box-shadow: 0 2px 2px rgb(230, 230, 230);
