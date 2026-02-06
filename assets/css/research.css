@@ -610,9 +610,7 @@ body {
   transform: translate(0) scale(1.2);
 }
 
-a:hover {
-  color: transparent;
-}
+
 
 /*
 ---------------------------

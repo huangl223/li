@@ -84,48 +84,268 @@ margin-top: 15px;
 margin-right: 10px;
 }
         h1 {
-            font-family: Arial, sans-serif;
-            color: #333;
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+            font-size: 1.8em;
         }
+        
         h2 {
-            color: #555;
+            color: #34495e;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            font-size: 1.4em;
+        }
+        
+        .publication {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 4px solid #3498db;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .publication-number {
+            font-weight: bold;
+            color: #3498db;
+            margin-right: 8px;
+        }
+        
+        .authors {
+            color: #2c3e50;
+        }
+        
+        .author-highlight {
+            font-weight: bold;
+        }
+        
+        .title {
+            font-style: italic;
+            color: #16a085;
+            font-size: 20px;
+        }
+        
+        .venue {
+            color: #7f8c8d;
+            font-size: 18px;
+        }
+        
+        .year {
+            color: #95a5a6;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .services {
+            color: #2c3e50;;
+            font-size: 22px;
+        }
+        
+        .description {
+            color: #7f8c8d;
+            font-size: 1.3em;;
         }
 </style>
 </head>
 
-<body class="no-scroll-preload">
+<body>
     <!--Dynamic Nav Bar-->
     <div style="width: 100%; min-height: 80%;">
                 <div class="home-container">       
                         <div class="col-md-6" style="margin-top: 45px;"><h1> Research areas </h1> </div>  
-                        <p></p>
                         <ul>
-                        <li><h2> Program verification, automated test generation, automated program repair</h2></li>
-                        <p></p>
+                        <li><h2> Formal verification, program analysis, automated test generation, automated program repair</h2></li>
                         <li><h2> AI4SE, combination of AI and formal verification </h2></li>
-                        <p></p>
                         <li><h2> Formal methods, model checking</h2></li>
                         </ul>
                         <p></p>
-                        <div class="col-md-6" style="margin-top: 45px;"><h1> Publications </h1> </div>  
-                        <ul>
-                        <li><h2> video, slides </h2></li>
-                        <p></p>
-                        <li><h2> xxx </h2></li>
-                        <p></p>
-                        <li><h2> xxx </h2></li>
-                        </ul>
+                        <h1 style="margin-top: 45px;">Publications</h1>
+    
+    <h2  >Conference Papers</h2>
+    
+    <div class="publication">
+        <span class="publication-number">1.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Ilgiz Mustafin, Marco Piccioni, Alessandro Schena, Reto Weber, and Bertrand Meyer.</span>
+        <span class="title"><a href="https://arxiv.org/abs/2507.15822" target="_blank">"Do AI models help produce verified bug fixes?"</a></span>
+        <span class="venue">arXiv preprint arXiv:2507.15822</span>
+        <span class="year">(2025)</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">2.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Bertrand Meyer, and Reto Weber.</span>
+        <span class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-05188-2_2" target="_blank">"Loop unrolling: formal definition and application to testing."</a></span>
+        <span class="venue">In the International Conference on Testing Software and Systems (ICTSS), available at arXiv:2502.15535</span>,
+        <span class="year">2025</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">3.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Bertrand Meyer, Manuel Oriol.</span>
+        <span class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-72044-4_2" target="_blank">"Is MCDC Really Better? Lessons from Combining Tests and Proofs"</a></span>.
+        <span class="venue">In the International Conference on Tests and Proofs (TAP), pp. 25-44</span>.
+        <span class="year">2024</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">4.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Bertrand Meyer, Ilgiz Mustafin, Manuel Oriol.</span>
+        <span class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3663529.3663789" target="_blank">"Execution-Free Program Repair"</a></span>.
+        <span class="venue">In the Companion Proceedings of the International Conference on the Foundations of Software Engineering (FSE-IVR)</span>,
+        <span class="year">2024</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">5.</span>
+        <span class="authors">Bertrand Meyer, Viktoryia Kananchuk, <span class="author-highlight">Li Huang</span>.</span>
+        <span class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3643788.3648007" target="_blank">"BUGFIX: towards a common language and framework for the Automatic Program Repair community"</a></span>.
+        <span class="venue">In the International Workshop on Automated Program Repair, pp. 9-13</span>.
+        <span class="year">2024</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">6.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Bertrand Meyer, Manuel Oriol.</span>
+        <span class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-43240-8_4" target="_blank">"Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites."</a></span>
+        <span class="venue">In IFIP International Conference on Testing Software and Systems (ICTSS), pp. 52-70</span>,
+        <span class="year">2023</span>
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">7.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Bertrand Meyer and Manuel Oriol.</span>
+        <span class="title"><a href ="https://ieeexplore.ieee.org/abstract/document/9985046/" target="_blank">"Improving Counterexample Quality from Failed Program Verification."</a></span>
+        <span class="venue">In the International Symposium on Software Reliability Engineering Workshop (ISSRE-W), Charlotte, North Carolina, USA</span>,
+        <span class="year">2022</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">8.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span> and Eun-Young Kang.</span>
+        <span class="title"><a href = "https://ieeexplore.ieee.org/abstract/document/9052141">"Work-In-Progress: Formal Analysis of Hybrid-Dynamic Timing Behaviors in Cyber-Physical Systems."</a></span>
+        <span class="venue">In the The IEEE Real-Time Systems Symposium-Brief Presentation (RTSS-BP), Hong Kong, China, December</span>,
+        <span class="year">2019</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">9.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Tian Liang and Eun-Young Kang.</span>
+        <span class="title"><a href ="https://ieeexplore.ieee.org/document/8882750">"Formal Verification of Dynamic and Stochastic Behaviors for Automotive Systems."</a></span>
+        <span class="venue">In the International Conference on Engineering of Complex Computer Systems (ICECCS), Guangzhou, China, November</span>,
+        <span class="year">2019</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">10.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Tian Liang and Eun-Young Kang.</span>
+        <span class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8854706">"Tool-Supported Analysis of Dynamic and Stochastic Behaviors in Cyber-Physical Systems."</a></span>
+        <span class="venue">In the International Conference on Software Quality, Reliability, and Security (QRS), University of Sofia, Sofia, Bulgaria, July</span>,
+        <span class="year">2019</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">14.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span> and Eun-Young Kang.</span>
+        <span class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-16722-6_12" target="_blank">"Formal Verification of Safety & Security Related Timing Constraints for A Cooperative Automotive System."</a></span>
+        <span class="venue">In the European Joint Conferences on Theory and Practice of Software (ETAPS-FASE), pp. 210-227, Springer, Prague, Czech Republic, April</span>,
+        <span class="year">2019</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">15.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span> and Eun-Young Kang.</span>
+        <span class="title"><a href="https://arxiv.org/abs/1904.07011">"SMT-based Probabilistic Analysis of Timing Constraints in Cyber-Physical Systems."</a></span>
+        <span class="venue">In the Formal Methods in Computer-Aided Design (FMCAD) Student Forum, University of Texas, Austin, USA, October</span>,
+        <span class="year">2018</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">16.</span>
+        <span class="authors">Eun-Young Kang and <span class="author-highlight">Li Huang</span>.</span>
+        <span class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-319-99933-3_12" target="_blank">"Probabilistic Analysis of Timing Constraints in Autonomous Automotive Systems using Simulink Design Verifier."</a></span>
+        <span class="venue">In the International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA), pp. 170-186, Springer, Beijing, China, September</span>
+        <span class="year">2018</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">17.</span>
+        <span class="authors">Eun-Young Kang, Dongrui Mu, and <span class="author-highlight">Li Huang</span>.</span>
+        <span class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-319-98938-9_14" target="_blank">"Probabilistic Verification of Timing Constraints in Automotive Systems using UPPAAL-SMC."</a></span>
+        <span class="venue">In the International Conference on Integrated Formal Methods (IFM), pp. 236-254, Springer, Maynooth, Ireland, September</span>
+        <span class="year">2018</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">18.</span>
+        <span class="authors">Eun-Young Kang, <span class="author-highlight">Li Huang</span>, and Dongrui Mu.</span>
+        <span class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3167132.3167291" target="_blank">"Formal Verification of Energy and Timed Requirements for a Cooperative Automotive System."</a></span>
+        <span class="venue">In the ACM/SIGAPP Symposium On Applied Computing in Software Engineering (SAC), pp. 1492-1499, ACM, Pau, France, April</span>
+        <span class="year">2018</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">19.</span>
+        <span class="authors">Eun-Young Kang, Dongrui Mu, <span class="author-highlight">Li Huang</span>, and Qianqing Lan.</span>
+        <span class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8004339" target="_blank">"Verification and Validation of a Cyber-Physical System in the Automotive Domain."</a></span>
+        <span class="venue">In International Conference on Software Quality, Reliability and Security (QRS), pp. 326-333, IEEE, Prague, Czech Republic, July</span>
+        <span class="year">2017</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">20.</span>
+        <span class="authors">Eun-Young Kang, Dongrui Mu, <span class="author-highlight">Li Huang</span> and Qianqing Lan.</span>
+        <span class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8004368" target="_blank">"Model-Based Analysis of Timing and Energy Constraints in an Autonomous Vehicle System."</a></span>
+        <span class="venue">In International Conference on Software Quality, Reliability and Security (QRS), pp. 525-532, IEEE, Prague, Czech Republic, July</span>
+        <span class="year">2017</span>.
+    </div>
+    
+    <h2>Journal Articles</h2>
+    
+    <div class="publication">
+        <span class="publication-number">1.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, Aliyu Alege.</span>
+        <span class="title"><a href="https://dl.acm.org/doi/10.1145/3785652" target="_blank">"Lessons from Formally Verified Deployed Software Systems."</a></span>,
+        <span class="venue">ACM Computing Surveys, available at arxiv.org/abs/2301.02206</span>,
+        <span class="year">2026</span>.
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">2.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Bertrand Meyer, Manuel Oriol.</span>
+        <span class="title"><a href="https://link.springer.com/article/10.1007/s42979-024-03482-0" target="_blank">"Seeding Contradiction: a Fast Method for Generating Full-coverage Test Suites"</a></span>.
+        <span class="venue">Special Issue: Testing Software and Systems: theory and applications, Springer Nature Computer Science (SNCS), 6(1), 41</span>,
+        <span class="year">2024</span>
+    </div>
+    
+    <div class="publication">
+        <span class="publication-number">3.</span>
+        <span class="authors"><span class="author-highlight">Li Huang</span>, Bertrand Meyer.</span>
+        <span class="title"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1859" target="_blank">"A Failed Proof Can Yield a Useful Test."</a></span>
+        <span class="venue">Software Testing, Verification and Reliability (STVR), 33(7)</span>,
+        <span class="year">2023</span>.
+    </div>
+  
+              
                         <div class="col-md-6" style="margin-top: 45px;"><h1> Community Services </h1> </div>  
-                        <ul>
-                        <li><h2> Program committee </h2></li>
-                        <p></p>
-                        <li><h2> Journal reviewer </h2></li>
-                        <p></p>
-                        </ul>
-                        <div class="home-right" style="margin-top: 45px;"><h1> Featured Publications </h1> </div>
+    <ul>
+        <li><h2>Program Committee, Int. Conference on Testing Software and Systems (ICTSS), 2025</h2></li>
+        <li><h2>Program Committee, Int. Workshop on Frontiers in Software Engineering Education (FISEE), 2023</h2></li>
+        <li><h2>Program Committee, Int. Workshop on Software Faults & Software Hardware Interaction Faults (IWSF & SHIFT), 2023, 2024, 2025</h2></li>
+        <li><h2>Program Committee, VERIFAI workshop, The interplay between Artificial Intelligence and Formal Verification, 2026</h2></li>
+        <li><h2>Reviewer, Springer Nature Computer Science (SN-CS)</li>
+    </ul>
+                        <div style="margin-top: 45px;"><h1> Other research artifacts </h1> </div>
                         <p></p>
                     <div style="margin-top: 45px;"></div>  
                         <table id="researchDetailsTable">
+                         <ul>
+                           <li><a href="https://autoproof.eiffel.org/" target="_blank"><h2>AutoProof: a program verifier for Eiffel</h2></a> <div class="description">  I extended the features of AutoProof with counterexample extraction and test generation</div></li>
+                            <li><a href="https://github.com/huangl223/Proof2Test" target="_blank"><h2>Proof2Test: a tool that generates and simplifies counterexamples of failed proofs (2023) </h2></a> <span class="description">ProTL reads a Boogie file and an SMT-LIB counterexample file and output simple variable and value pairs for the Boogie programs</span></li>
+                            <li> <a href="https://sites.google.com/view/vndsoftsys/home" target="_blank"><h2>A website that showcases a list of formally verified and deployed systems (2023) </h2></a> <span class="description"></span></li>
+                            <li><a href="https://sites.google.com/view/protl/home" target="_blank"><h2>ProTL: probablistic CCSL translator (2019) </h2></a> <span class="description"> A translator that converts CCSL (clock constraint specification language) specifications into stochastic timed automata verifiable in Uppaal SMC</span></li>
+                            <li><a href="https://github.com/huangl223/PrCCSL" target="_blank"><h2>ProCCSL Simulink library (2017)</h2></a><span class="description">A set of Simulink patterns that represent the executional semantics of CCSL temporal operators</span></li>
+                        </ul>
+
                         <tbody class="main">
                             <!--Fetch data from research.js-->
                         </tbody>
